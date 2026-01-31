@@ -19,8 +19,6 @@ A simple and responsive web application that allows users to search and view Git
 - Axios
 - GitHub REST API
 
-## 📂 Project Structure
-
 
 ## 🧪 How to Use
 1. Open the live demo link
