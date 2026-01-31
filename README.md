@@ -28,9 +28,6 @@ A simple and responsive web application that allows users to search and view Git
 3. Press Enter
 4. View the profile details instantly
 
-## 📸 Screenshot
-_Add a screenshot of your project here (optional)_
-
 ## 👨‍💻 Author
 **Anuj Saroj**  
 GitHub: https://github.com/Anuj-Saroj
